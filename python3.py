@@ -1,1 +1,1 @@
-print("ozdbsbvvbkjsdbvkjsdd")
+print("all is well")
